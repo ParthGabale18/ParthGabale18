@@ -1,4 +1,12 @@
-## Hi there 👋
+# ParthGabale18
+## Personal Details 
+Btech CSE 2025-29 .
+
+Student at VIT bhopal University.
+
+Coding Enthusiast.
+
+Looking forward to learn new things and skills.
 
 <!--
 **ParthGabale18/ParthGabale18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
